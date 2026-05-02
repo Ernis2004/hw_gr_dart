@@ -26,7 +26,7 @@ void main() {
 
     print('-------------------');
   }
-
+//
   print('✅All devices processed.');
   print('End of program.');
   }
